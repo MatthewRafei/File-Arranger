@@ -2,7 +2,7 @@
 
 # Requires inotify-tools package
 #
-# Authors: oddstap && yetanothergeek
+# Authors: Matthew Rafei && yetanothergeek
 #
 # This simple tool takes newly created files in the Downloads directory
 # and then organizes them based on file extension.
